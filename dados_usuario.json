@@ -1,0 +1,64 @@
+{
+  "colecao": {},
+  "gemas": 0,
+  "estatisticas": {
+    "ciclos_completos": 0,
+    "xp_total": 0,
+    "streak_diario": 0,
+    "melhor_streak": 0,
+    "ultima_sessao": null,
+    "sessoes_hoje": 0,
+    "data_sessoes_hoje": null
+  },
+  "sementes": {
+    "basica": {
+      "nome": "Árvore da Produtividade",
+      "preco": 0,
+      "desbloqueada": true,
+      "raridade": "comum",
+      "descricao": "Cresce com cada sessão de foco.",
+      "xp_por_sessao": 10,
+      "cor": "#4caf50"
+    },
+    "cristal": {
+      "nome": "Cristal de Quartzo",
+      "preco": 50,
+      "desbloqueada": false,
+      "raridade": "raro",
+      "descricao": "Brilha com foco constante.",
+      "xp_por_sessao": 15,
+      "cor": "#42a5f5"
+    },
+    "cidade": {
+      "nome": "Mini Metrópole",
+      "preco": 120,
+      "desbloqueada": false,
+      "raridade": "épico",
+      "descricao": "Uma cidade que cresce com sua produtividade.",
+      "xp_por_sessao": 20,
+      "cor": "#ab47bc"
+    },
+    "oceano": {
+      "nome": "Recife de Coral",
+      "preco": 220,
+      "desbloqueada": false,
+      "raridade": "lendário",
+      "descricao": "Vida marinha que floresce com seu trabalho.",
+      "xp_por_sessao": 25,
+      "cor": "#26c6da"
+    },
+    "cosmos": {
+      "nome": "Nebulosa Estelar",
+      "preco": 350,
+      "desbloqueada": false,
+      "raridade": "mítico",
+      "descricao": "Universo em expansão baseado em seu foco.",
+      "xp_por_sessao": 30,
+      "cor": "#ffa726"
+    }
+  },
+  "metadata": {
+    "versao": "1.0",
+    "salvo_em": "2026-06-27 02:04:29"
+  }
+}
